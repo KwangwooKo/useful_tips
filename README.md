@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=VmNhDUKMHd4&t=36s
 
 ## Example
 
-### 1. llama3_70b_groq.py
+llama3_70b_groq.py
 ```
 from groq import Groq # type: ignore
 from dotenv import load_dotenv
@@ -41,7 +41,7 @@ for chunk in completion:
     print(chunk.choices[0].delta.content or "", end="")
 ```
 
-### 2. .env
+.env
 ```
 GROQ_API_KEY=
 ```
