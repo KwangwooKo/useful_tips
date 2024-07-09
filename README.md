@@ -1,4 +1,4 @@
-# useful_tips
+# useful_tips : This is the collection of self-study for AI
 
 1. How to use api_key of llama-70b using Groq
 (reference: AI Unleashed)
