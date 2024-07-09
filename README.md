@@ -55,3 +55,8 @@ groq.com -> groq cloud -> API Key
 
 https://www.youtube.com/watch?v=w4ERVqyMNcI&t=15s
 
+
+3. Google Firestore (could backend)
+
+https://python.langchain.com/v0.2/docs/integrations/memory/google_firestore/
+
